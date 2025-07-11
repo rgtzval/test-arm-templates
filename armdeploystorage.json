@@ -12,7 +12,7 @@
       },
       "kind": "StorageV2",
       "properties": {
-          "allowSharedKeyAccess":"false",      
+        "allowSharedKeyAccess": false
       }
     }
   ]
