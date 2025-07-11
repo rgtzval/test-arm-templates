@@ -8,11 +8,11 @@
       "name": "armdeploystorageaccount",
       "location": "eastus",
       "sku": {
-        "name": "Standard_LRS"
+        "name": "Standard_GRS"
       },
       "kind": "StorageV2",
       "properties": {
-        "supportsHttpsTrafficOnly": true
+          "allowSharedKeyAccess":"false",      
       }
     }
   ]
